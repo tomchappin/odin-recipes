@@ -9,3 +9,7 @@ The website will consist of a main index page which will have links to a few rec
 
 Feeling pretty confident, but let's see what I produce...
 
+
+-- Post Assignment Comment --
+
+I found the assignment fairly straightforward. I created a navigation structure using <p> and relative links that I think works pretty well. I'd be very confident creating something like this again now -- on to CSS!
